@@ -149,6 +149,3 @@ Feedstock Maintainers
 * [@JNuss71](https://github.com/JNuss71/)
 * [@conda-forge/r](https://github.com/orgs/conda-forge/teams/r/)
 
-
-<!-- dummy commit to enable rerendering -->
-
